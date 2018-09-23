@@ -1,0 +1,7 @@
+conversation_id,speaker_name,speaker_type,text,utterance_id
+58bf833f38e61e0046c9e5c8,Cathrine Ang,customer,"Hi! I installed #MTX Notebook 9LT 30 trial, but today its still telling me there a licensing issue! Any idea when this will be fixed?",1
+58bf833f38e61e0046c9e5c8,Nicolette Avalos,agent,Hi! Would you be able to send me a screenshot of the error message you get when trying to install? ,2
+58bf833f38e61e0046c9e5c8,Cathrine Ang,customer,Sure! This keeps happening URL,3
+58bf833f38e61e0046c9e5c8,Nicolette Avalos,agent,This is an issue on our side and we are working to have it fixed as soon as we possibly can. ,4
+58bf833f38e61e0046c9e5c8,Cathrine Ang,customer,Thanks! Is MTX Notebook 9 2017 working at the moment? :),5
+58bf833f38e61e0046c9e5c8,Nicolette Avalos,agent,You're welcome and the issue is only with #MTX Notebook 9LT. ,6

@@ -1,0 +1,13 @@
+{
+  "name": "Cognative_Insight",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --hot --inline --history-api-fallback --host 0.0.0.0 --port 3030",
+    "test2": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "build": "react-scripts build",
+    "webpack": "webpack"
+  }
+}
