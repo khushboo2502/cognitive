@@ -1,0 +1,151 @@
+.MuiToolbar-regular-54 {
+    min-height: 48px !important;
+    max-height: 48px !important;
+}
+.menu span {
+    margin-right: 20px !important;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+.UploadButton {
+    background: #0872B0 !important;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+.UploadButton span {
+    color: white !important;
+    margin-right: 0px !important;
+    font-size: 0.98rem !important;
+}
+.headerSearch {
+	display: inline-flex;
+    font-size: 15px;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1.1875em;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+.headerSearch input{
+    width: 200px;
+    transition: width 300ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    font: inherit;
+    color: #74736D;
+    border: 0;
+    margin: 0;
+    padding: 8px;
+    display: block;
+    min-width: 0;
+    flex-grow: 1;
+    box-sizing: content-box;
+    background: white;
+    vertical-align: middle;
+    -webkit-tap-highlight-color: transparent;
+    position: relative; 
+    vertical-align: top;
+}
+.searchBox Button{
+	background: #3752B4 !important;
+	padding: 4px;
+    border: 1px solid #fff;
+    box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.2);
+    color: white;
+}
+.SearchIcon {
+    font-size: 33px !important;
+	background: white;
+	color: #74736D;
+    border: 0px;
+}
+
+.bodyContent {
+    background: white;
+}
+.bodyParagraph {
+    border: 1px solid #555;
+    min-height: 540px;
+}
+.callLogHeader {
+    border-left: 1px solid #028CB0 !important;
+    border-right: 1px solid #028CB0 !important;
+    color: #24567F !important;
+    background: #C6EBF0 !important;
+}
+.callLogBody {
+    font-size: 18px;
+    line-height: 40px;
+    font-family: monospace;
+}
+.circle {
+    /*padding-top: 1px;
+    margin-right: 20px;*/
+    border: 2px solid #0998D8;
+    border-radius: 100px;
+    color: #000;
+   /* height: 47px;
+    font-weight: bold;
+    width: 50px;
+    display: table;
+    vertical-align: middle;
+    display: table-cell;*/
+}
+.buttonDesign{
+    position: relative;
+    background-color: rgba(63, 81, 181, 0.08);
+    border: none;
+    font-size: 0.875rem;
+    color: #3f51b5;
+    padding: 8px 16px;
+    min-width: 88px;
+    min-height: 36px;
+    text-align: center;
+    line-height: 1.4em;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    font-weight: 500;
+    border-radius: 2px;
+    text-transform: uppercase;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+    margin-right: 10px;
+}
+.buttonDesign:focus {
+    outline: 0;
+}
+.buttonDesign:hover {
+    background: rgba(63, 81, 181, 0.15);
+}
+.buttonDesign:after {
+    content: "";
+    background: rgba(63, 81, 181, 2.1);
+    display: block;
+    position: absolute;
+    padding-top: 300%;
+    padding-left: 350%;
+    margin-left: -20px!important;
+    margin-top: -120%;
+    opacity: 0;
+    transition: all 0.8s
+}
+.buttonDesign:active:after {
+    padding: 0;
+    margin: 0;
+    opacity: 1;
+    transition: 1s
+}
+.CreateObligationBody{
+    height:70px;
+    background:#184250;
+    color: #fff;
+    font-size: larger;
+}
+.CreateObligationBody div Button{
+    color: white;
+    border: 1px solid white;
+    margin-right: 15px;
+}
+.CreateObligationBody div Button:hover{
+    color: #184250;
+    background: white;
+}
